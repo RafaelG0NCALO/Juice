@@ -3,7 +3,7 @@ import './App.css';
 import can from './assets/Can.png';
 import labels from './assets/Labels.png';
 import pear from './assets/pear.png';
-import pears from './assets/pear2.png';
+import pears from './assets/Pear2.png';
 import apple from './assets/apple.png';
 import apples from './assets/apples.png';
 import exotic from './assets/exotic.png';
